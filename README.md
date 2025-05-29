@@ -54,3 +54,5 @@ Built a comprehensive Tableau dashboard for exploratory sales analysis on Supers
 
 > “Code is more than syntax — it’s a bridge between ideas and solutions.”  
 > Let’s build something great together.
+> ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LundrimAlla.LundrimAlla)
+
