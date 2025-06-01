@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lundrim Alla
 
 🎓 Computer Science Master's Student @ University of Vienna  
-📊 Data Science | 🧠 Machine Learning |  
+📊 Data Science | 🧠 Machine Learning 
 📍 Based in Vienna | 💬 Fluent in English, and Albanian
 
 ---
@@ -47,8 +47,8 @@ Built a comprehensive Tableau dashboard for exploratory sales analysis on Supers
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/lundrim-alla-2089b61b2/)
-- 📧 Email: lundrim.alla@univie.ac.at
-- 🌐 Personal website: *(coming soon)*
+- 📧 Email: lundrim@yahoo.com
+
 
 ---
 
