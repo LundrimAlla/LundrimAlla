@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lundrim Alla
 
 🎓 Computer Science Master's Student @ University of Vienna  
-📊 Data Science | 🧠 Machine Learning | 🌐 Full-Stack Development  
+📊 Data Science | 🧠 Machine Learning |  
 📍 Based in Vienna | 💬 Fluent in English, and Albanian
 
 ---
